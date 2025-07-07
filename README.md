@@ -3,7 +3,7 @@
 ## Objective
 This project xyx
 
-#Schemas
+##Schemas
 '''sql
   CREATE TABLE Netflix_data
   (
@@ -23,7 +23,7 @@ This project xyx
 '''sql
 
 ##Tasks
-1. Count the Number of Movies vs TV Shows
+###1. Count the Number of Movies vs TV Shows
    '''sql
     SELECT
     	type,
@@ -33,7 +33,7 @@ This project xyx
     GROUP BY 1;
    '''sql
 
-2. Find the Most Common Rating for Movies and TV Shows
+###2. Find the Most Common Rating for Movies and TV Shows
 '''sql
   SELECT
 	type,
