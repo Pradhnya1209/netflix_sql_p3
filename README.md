@@ -20,7 +20,7 @@ This project xyx
   	listed_in VARCHAR (150),
   	description VARCHAR (1000)
   )
-```sql
+'''sql
 
 ##Tasks
 ###1. Count the Number of Movies vs TV Shows
