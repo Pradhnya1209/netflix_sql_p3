@@ -4,7 +4,7 @@
 ## Overview
 This project xyx
 
-##Schema
+## Schema
 ```sql
 	  CREATE TABLE Netflix_data
 	  (
@@ -23,7 +23,7 @@ This project xyx
 	  )
 ```
 
-##Business Problems and Solutions
+## Business Problems and Solutions
 
 ### 1. Count the Number of Movies vs TV Shows
 ```sql
